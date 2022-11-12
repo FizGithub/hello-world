@@ -1,5 +1,7 @@
-# hello-world
+Task 1 
 
-Hi there!
+Name: Nur Hafiza Binti Sabarudin
+ID: 52213220013
 
-Fizz here, I enjoy coffee perhaps too much for my own good //guess that's all 
+Github link 
+https://github.com/FizGithub/hello-world
